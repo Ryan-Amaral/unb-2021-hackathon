@@ -4,6 +4,8 @@ Quick and dirty data analysis on mortality rates for a hackathon. Analysis done 
 
 - Won 1st place teaser poster prize (teaser poster consists of 3 hypothesis questions, as stated in analysis-presentation).
 
+https://www.unb.ca/fredericton/management/ibec/data-challenge1.html
+
 ## Datasets
 
 Mortality: http://ghdx.healthdata.org/record/ihme-data/gbd-2019-mortality-estimates-1950-2019
